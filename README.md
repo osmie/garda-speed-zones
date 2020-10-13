@@ -2,6 +2,6 @@ Mapping Garda speed camera zones into OpenStreetMap
 
 Download the file KML file from here
 
-http://www.garda.ie/Controller.aspx?Page=5590&Lang=1
+https://www.garda.ie/en/Roads-Policing/Safety-camera-locations/
 
-Current file is http://www.garda.ie/Documents/User/New%20Zones%202015.kmz
+Current file is https://www.garda.ie/en/roads-policing/safety-camera-locations/zones-update-aug-2020.kmz
